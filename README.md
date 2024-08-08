@@ -18,6 +18,11 @@
 - 5주차 : Room, Hilt(의존성 주입) 를 활용하여 MVVM 구조로 리팩터링
 - 6주차 : 스플래시 스크린 추가, FCM 푸시 알림, Splash 뷰모델 유닛테스트 코드 작성
 
+## 🎥 시연 영상
+---
+![움짤 전체](https://github.com/user-attachments/assets/c4ccf93d-3c91-4d0b-9b2c-7277361e0d7c)
+
+
 
 ## 📁 프로젝트 구조
 <img width="300" alt="스크린샷 2024-08-02 오후 2 16 40" src="https://github.com/user-attachments/assets/e41c4e37-85f5-4dc8-b594-c228d4bdfc39">
